@@ -1,11 +1,10 @@
 <!-- ================= HEADER ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Anan%20Omri&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-</p>
+<img src="https://github.com/ananomri/ananomri/blob/main/image.png?raw=true" /></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=AI+Engineer+in+Progress;Machine+Learning+%7C+Deep+Learning+Enthusiast;Building+AI+to+Solve+Real+Problems;Always+Learning+%7C+Always+Building" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=900&lines=AI+Engineer+in+Progress;Machine+Learning+%7C+Deep+Learning+Enthusiast;Building+AI+to+Solve+Real+Problems;Always+Learning+%7C+Always+Building" />
 </p>
 
 ---
@@ -83,13 +82,9 @@ My goal is not only to build models, but to create complete intelligent systems 
 </p>
 
 ---
-
-# ⚡ Philosophy
-
-> “AI is not just about models and algorithms — it's about building systems that can genuinely help people, simplify complexity, and create impact.”
-
+AI is not just about models and algorithms — it's about building systems that can genuinely help people, simplify complexity, and create impact.
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+<img src="https://github.com/ananomri/ananomri/blob/main/image.png?raw=true" /></p>
 </p>
