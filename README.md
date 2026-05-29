@@ -1,7 +1,6 @@
 <!-- ================= HEADER ================= -->
 
 <p align="center">
-<img src="https://github.com/ananomri/ananomri/blob/main/image.png?raw=true" /></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=900&lines=AI+Engineer+in+Progress;Machine+Learning+%7C+Deep+Learning+Enthusiast;Building+AI+to+Solve+Real+Problems;Always+Learning+%7C+Always+Building" />
@@ -13,7 +12,7 @@
 
 ### 🧠 AI & Machine Learning Enthusiast
 
-I'm a Computer Engineering student deeply passionate about understanding how Artificial Intelligence works and how it can be applied to solve meaningful real-world problems.
+I'm a Software Engineering student deeply passionate about understanding how Artificial Intelligence works and how it can be applied to solve meaningful real-world problems.
 
 I enjoy learning the theory behind Machine Learning, Deep Learning, NLP, Computer Vision, and Data Engineering — then transforming that knowledge into practical applications that can make people's lives easier.
 
@@ -86,5 +85,4 @@ AI is not just about models and algorithms — it's about building systems that 
 ---
 
 <p align="center">
-<img src="https://github.com/ananomri/ananomri/blob/main/image.png?raw=true" /></p>
 </p>
